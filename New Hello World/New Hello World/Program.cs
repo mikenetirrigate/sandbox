@@ -10,6 +10,10 @@ namespace New_Hello_World
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Zach is not the greatest");
+            Console.ReadLine();
+            
+            
         }
     }
 }
